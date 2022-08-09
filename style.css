@@ -1,0 +1,24 @@
+body{
+    background: #d9c832;
+}
+label
+{
+  font-size: 14px;
+  background-color: white;
+  color: green;
+  padding: 5px;
+  border-radius: 10px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.heading{
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+#normal_div{
+    font-weight: bolder;
+}
